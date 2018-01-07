@@ -1,4 +1,4 @@
-(ns clojure-noob.bat-ch3-top-model
+(ns clojure-noob.ch3-top-model
   (:gen-class))
 
 ;; SHIRE'S NEXT TOP MODEL

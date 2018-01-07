@@ -1,4 +1,4 @@
-(ns clojure-noob.bat-ch3-exercises
+(ns clojure-noob.ch3-exercises
   (:gen-class))
 
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
